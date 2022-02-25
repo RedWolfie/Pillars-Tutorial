@@ -9,4 +9,3 @@ public class Sphere : Shape
     transform.Translate(Speed * Vector3.back * Time.deltaTime); // INHERITANCE (Speed from parent)
   }
 }
-}
